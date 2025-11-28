@@ -375,7 +375,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/garbage-truck-tracker.git
+https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/
 
 # Install dev dependencies
 pip install -r requirements-dev.txt
@@ -403,13 +403,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: randintrandom6@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/harhspalod/Where-is-my-garbage-Truck/Where--is-my-truck-backend/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/harhspalod/Where-is-my-garbage-Truck/Where--is-my-truck-backend/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/tree/main)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/tree/main)
 
 ---
 
 <p align="center">
-  Made with ❤️ for cleaner cities
+  Made with ❤️ for cleaner cities Banglore
 </p>
 
 <p align="center">
