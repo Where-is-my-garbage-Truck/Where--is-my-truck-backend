@@ -1,27 +1,28 @@
 ## Backend file main code
 ``` bash
-📦app
- ┣ 📂__pycache__
- ┃ ┣ 📜__init__.cpython-310.pyc
- ┃ ┣ 📜database.cpython-310.pyc
- ┃ ┣ 📜main.cpython-310.pyc
- ┃ ┣ 📜models.cpython-310.pyc
- ┃ ┗ 📜schemas.cpython-310.pyc
- ┣ 📂routes
- ┃ ┣ 📂__pycache__
- ┃ ┃ ┣ 📜__init__.cpython-310.pyc
- ┃ ┃ ┣ 📜drivers.cpython-310.pyc
- ┃ ┃ ┣ 📜tracking.cpython-310.pyc
- ┃ ┃ ┗ 📜users.cpython-310.pyc
- ┃ ┣ 📜__init__.py
- ┃ ┣ 📜drivers.py
- ┃ ┣ 📜tracking.py
- ┃ ┗ 📜users.py
- ┣ 📜__init__.py
- ┣ 📜database.py
- ┣ 📜main.py
- ┣ 📜models.py
- ┗ 📜schemas.py
+📦 garbage-tracker/
+ ┣ 📂 app/
+ ┃ ┣ 📂 routes/
+ ┃ ┃ ┣ 📜 __init__.py
+ ┃ ┃ ┣ 📜 zones.py          # Zone management (Admin)
+ ┃ ┃ ┣ 📜 trucks.py         # Truck & Driver endpoints
+ ┃ ┃ ┣ 📜 users.py          # User registration & settings
+ ┃ ┃ ┣ 📜 tracking.py       # Live tracking endpoints
+ ┃ ┃ ┗ 📜 websocket.py      # Real-time WebSocket
+ ┃ ┣ 📂 services/
+ ┃ ┃ ┣ 📜 __init__.py
+ ┃ ┃ ┣ 📜 location.py       # Distance, ETA calculations
+ ┃ ┃ ┗ 📜 alerts.py         # Alert checking & sending
+ ┃ ┣ 📜 __init__.py
+ ┃ ┣ 📜 config.py           # Configuration management
+ ┃ ┣ 📜 database.py         # Database connection
+ ┃ ┣ 📜 models.py           # SQLAlchemy models
+ ┃ ┣ 📜 schemas.py          # Pydantic schemas
+ ┃ ┗ 📜 main.py             # FastAPI application
+ ┣ 📜 .env                   # Environment variables
+ ┣ 📜 .env.example           # Example env file
+ ┣ 📜 requirements.txt       # Dependencies
+ ┗ 📜 README.md              # Documentation
  ```
 
  ## All about the documentation
@@ -38,7 +39,8 @@
  ┣ 📜Database Schema Design.md
  ┣ 📜Google Maps Integration Plan.md
  ┣ 📜Notification System Design.md
- ┗ 📜System Architecture Diagram.md
+ ┣ 📜System Architecture Diagram.md
+ ┗ 📜project_status.md
  ```
 
 
@@ -46,7 +48,9 @@
 
 ``` bash 
 📦tests
- ┗ 📜__init__.py
+ ┣ 📜__init__.py
+ ┣ 📜test_api.py
+ ┗ 📜test_quick.sh
  ```
 
  ## setup 
