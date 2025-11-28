@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#demo">Demo</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#api-documentation">API Docs</a> •
-  <a href="#roadmap">Roadmap</a> •
+  <a href="https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/blob/main/Docs">Features</a> •
+  <a href="https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/blob/main/Docs">Demo</a> •
+  <a href="https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/blob/main/Docs">Installation</a> •
+  <a href="https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/blob/main/Docs/API%20Endpoints%20Design.md">API Docs</a> •
+  <a href="https://github.com/Where-is-my-garbage-Truck/Where--is-my-truck-backend/blob/main/Docs">Roadmap</a> •
   <a href="#contributing">Contributing</a>
 </p>
 
