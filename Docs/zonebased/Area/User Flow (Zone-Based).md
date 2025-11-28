@@ -58,7 +58,7 @@ FLOW 2: USER TRACKING (Main Screen)
     │                                                                     │
     │   ┌─────────────────────────────────────────────────────────────┐   │
     │   │                                                             │   │
-    │   │                    🗺️  MAP VIEW                              │   │
+    │   │                    🗺️  MAP VIEW                             │   │
     │   │                                                             │   │
     │   │         Zone boundary shown as shaded area                  │   │
     │   │                                                             │   │
@@ -109,7 +109,7 @@ FLOW 3: TRUCK NOT ON DUTY
     │                                                                     │
     │   ┌─────────────────────────────────────────────────────────────┐   │
     │   │                                                             │   │
-    │   │                    🗺️  MAP VIEW                              │   │
+    │   │                    🗺️  MAP VIEW                             │   │
     │   │                                                             │   │
     │   │              (Zone boundary shown)                          │   │
     │   │                                                             │   │
