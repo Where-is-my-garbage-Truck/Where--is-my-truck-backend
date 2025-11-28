@@ -402,9 +402,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/garbage-truck-tracker/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/garbage-truck-tracker/discussions)
+- 📧 Email: randintrandom6@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/harhspalod/Where-is-my-garbage-Truck/Where--is-my-truck-backend/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/harhspalod/Where-is-my-garbage-Truck/Where--is-my-truck-backend/discussions)
 
 ---
 
